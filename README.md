@@ -1,16 +1,16 @@
-# C++ 
+# Shortest Path Visualization
 This repository contains beginner-level C++ programs.
 
 ## Building
 
 Run the command below to build
 ```
-g++ -o index.exe index.cpp
+g++ -o shortest_path_visualization.exe index.cpp
 ```
-this will create index.exe
+This will create shortest_path_visualization.exe
 
 ## Run
 Run the command below to run index.exe
 ```
-./index
+./shortest_path_visualization
 ```
