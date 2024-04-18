@@ -7,7 +7,7 @@ int fibonacci(int abdc){
     for (int i = 2; i <= abdc; ++i) {
       /**
        * adding the two variable first before we change the value of the two variable
-      */
+       */
         int next = first + second;
         first = second;
         second = next;
